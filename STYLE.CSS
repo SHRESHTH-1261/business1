@@ -1,0 +1,26 @@
+.box1{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    flex-wrap: wrap;
+    padding:40px;
+}
+.box2{
+    position:relative;
+    width: 510px;
+    height: 480px;
+    background-color: rgb(67, 219, 145);
+    border-radius: 3%;
+    padding-top: 80px;
+    padding-left: 40px;}
+    
+button{
+        border-radius: 60px;
+        border:none;
+        outline:none;
+        font-size: small;
+        font-style: bold;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+
